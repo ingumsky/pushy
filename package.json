@@ -15,11 +15,11 @@
     "build": "pkg package.json -t node8-linux -o ./com.github.harisvsulaiman.pushy.node/com.github.harisvsulaiman.pushy.dbus"
   },
   "dependencies": {
-    "dbus-native": "0.2.2",
+    "dbus-native": "0.2.3",
     "express": "4.15.4",
     "keytar": "4.0.4",
     "opn": "5.1.0",
-    "pushbullet": "2.0.0",
+    "pushbullet": "2.1.0",
     "raven": "2.1.2"
   },
   "devDependencies": {
